@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Live Preview
+
+This is the link : (https://snapchat-app-b40fc.web.app/) <br />
+
 ## Available Scripts
 
 In the project directory, you can run:
